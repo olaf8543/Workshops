@@ -4,6 +4,9 @@
 - Learn JavaScript basic syntax
 - Learn JavaScript class syntax
 
+## Prerequisites
+- Understanding of basic coding concepts (what a variable is, what a function is, etc.)
+
 ## Tools
 Ensure you have all the tools downloaded from the main [README.md](../README.md) file.
 
@@ -23,28 +26,24 @@ We will be following along with this tutorial video up to **1:07:21**:
 ## Extra Materials
 
 ### Arrays
-- **6-minute array tutorial**:  
-  [JavaScript Arrays Crash Course](https://www.youtube.com/watch?v=oigfaZ5ApsM)
+[JavaScript Arrays Crash Course](https://www.youtube.com/watch?v=oigfaZ5ApsM) (6 mins)
   
-- **1:45-minute push() and pop() tutorial**:  
-  [How to use .push(), .pop(), .shift(), and .unshift() in JavaScript - YouTube](https://www.youtube.com/watch?v=0jKHTpZcrHY)  
-  (Watch to 1:45 for push and pop)
+[Using .push() and .pop()](https://www.youtube.com/watch?v=0jKHTpZcrHY) (Watch to 1:45 for push and pop)
+
+### Conditionals
+[JavaScript Conditionals Crash Course](https://www.youtube.com/watch?v=IsG4Xd6LlsM&ab_channel=ProgrammingwithMosh) (6 mins)
 
 ### Loops
-- **6-minute loops tutorial**:  
-  [JavaScript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ)
+[JavaScript Loops Crash Course](https://www.youtube.com/watch?v=s9wW2PpJsmQ) (6 mins)
 
 ### Functions
-- **5-minute functions tutorial**:  
-  [JavaScript Functions](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+[JavaScript Functions Crash Course](https://www.youtube.com/watch?v=PkZNo7MFNFg) (5 mins)
 
 ### Arrow Functions
-- **9-minute arrow functions tutorial**:  
-  [JavaScript ES6 Arrow Functions Tutorial](https://www.youtube.com/watch?v=h33Srr5J9nY)
+[Option 1 JavaScript Arrow Functions Crash Course](https://www.youtube.com/watch?v=h33Srr5J9nY) (9 mins)
 
-- **5-minute arrow functions tutorial**:  
-  [#26 Arrow function in JavaScript](https://www.youtube.com/watch?v=mrHNSanmqQ4)
+[Option 2 JavaScript Arrow Functions Crash Course](https://www.youtube.com/watch?v=mrHNSanmqQ4) (5 mins)
 
 ### Objects
 - **7-minute objects tutorial**:  
-  [Learn JavaScript OBJECTS in 7 minutes!](https://www.youtube.com/watch?v=O3iR-CIufKM)
+[JavaScript Objects Crash Course](https://www.youtube.com/watch?v=O3iR-CIufKM) (7 mins)
