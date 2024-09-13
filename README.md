@@ -29,7 +29,11 @@ Make sure you have the following tools installed before you begin:
    Here’s how to do it:
    - Go to your **GitHub account** and navigate to your forked repository.
    - Click the green **Code** button, and then copy the URL (it will look like `https://github.com/your-username/Workshops.git`).
-   - Open a terminal or command prompt on your computer, and run the following command (replacing `your-username` with your GitHub username):
+   - Open a terminal or command prompt on your computer, and navigate to the folder where you want to store these tutorials:
+     ```bash
+     cd path/to/destination/folder
+     ```
+   - Run the following command (replacing `your-username` with your GitHub username):
      ```bash
      git clone https://github.com/your-username/Workshops.git
      ```
@@ -51,3 +55,33 @@ Make sure you have the following tools installed before you begin:
 
 5. **Follow the instructions in the workshop's `README.md`**:
    Each workshop folder contains a `README.md` file with detailed instructions, examples, and exercises. Be sure to read it carefully to understand what to do next.
+
+To be able to pull new changes from this repository:
+1. **Add the upstream repository** to your local git configuration:
+   First, navigate to your forked repository directory in the terminal.
+
+   Then, run:
+   ```bash
+   git remote add upstream https://github.com/rit-sse/Workshops.git
+   ```
+
+   This command adds a new remote called `upstream`, which points to the original repository from which you forked.
+
+2. **Fetch the latest changes** from the upstream repository:
+   ```bash
+   git fetch upstream
+   ```
+
+3. **Merge or rebase the changes** from the upstream repository into your local branch:
+   If you are on the branch that you want to update (e.g., `main`), run:
+   ```bash
+   git merge upstream/main
+   ```
+
+4. **Push the changes to your forked repository** (if necessary):
+   After merging or rebasing, you can push the updated changes to your forked repository:
+   ```bash
+   git push origin main
+   ```
+
+After these steps, you should be able to pull updates from the main Workshops repository but still push your workshop progress to your own forked copy.
