@@ -45,5 +45,4 @@ We will be following along with this tutorial video up to **1:07:21**:
 [Option 2 JavaScript Arrow Functions Crash Course](https://www.youtube.com/watch?v=mrHNSanmqQ4) (5 mins)
 
 ### Objects
-- **7-minute objects tutorial**:  
 [JavaScript Objects Crash Course](https://www.youtube.com/watch?v=O3iR-CIufKM) (7 mins)
