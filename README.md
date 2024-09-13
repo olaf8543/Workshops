@@ -7,6 +7,7 @@ The workshops will cover the following topics:
 
 1. **JavaScript** – Get comfortable with the fundamentals of JavaScript.
 2. **TypeScript** – Learn how TypeScript extends JavaScript by adding types.
+
 WIP
 
 ### How to Use This Repository
