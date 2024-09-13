@@ -1,11 +1,10 @@
 /**
  * This file contains uses of the JavaScript concepts that we need for this project :)
- * 
  */
 
 
 /**
- * Miscellaneous
+ * MISCELLANEOUS
  */
 
 // This is a comment!
