@@ -7,11 +7,7 @@ The workshops will cover the following topics:
 
 1. **JavaScript** – Get comfortable with the fundamentals of JavaScript.
 2. **TypeScript** – Learn how TypeScript extends JavaScript by adding types.
-3. **HTML** – Understand the structure of web pages with HTML.
-4. **CSS** – Style web pages with CSS.
-5. **React** – Dive into building user interfaces with React.
-6. **Next.js** – Build full-stack web applications with Next.js.
-7. **Tailwind CSS** – Learn how to use utility-first CSS for rapid UI development.
+WIP
 
 ### How to Use This Repository
 
