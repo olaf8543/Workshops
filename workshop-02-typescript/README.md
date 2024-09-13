@@ -6,14 +6,14 @@
 ## Prerequisites
 You should already have some basic knowledge of:
 - JavaScript [(Javascript Workshop Here)](../workshop-01-javascript/README.md)
-- Variables (what is a variable, how to create them, difference between let and const)
-- Data types (String, number, boolean, null, undefined)
-- Arrays
-- Conditionals
-- Loops
-- Functions
-- Arrow Functions
-- Objects
+   - Variables (what is a variable, how to create them, difference between let and const)
+   - Data types (String, number, boolean, null, undefined)
+   - Arrays
+   - Conditionals
+   - Loops
+   - Functions
+   - Arrow Functions
+   - Objects
 
 Please review the [cheatSheet.js](./cheatSheet.js) file. If any of this content seems unfamiliar or unknown, head to the [Javascript Workshop](../workshop-01-javascript/README.md) and **review the extra material videos**.
 
