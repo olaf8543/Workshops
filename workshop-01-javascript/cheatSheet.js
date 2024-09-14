@@ -1,3 +1,4 @@
+function cheatSheet() { // Here to prevent block-scope variables
 /**
  * This file contains uses of the JavaScript concepts that we need for this project :)
  */
@@ -113,3 +114,4 @@ const person = {
 
 console.log(person.name); // Outputs 'John'
 console.log(person['age']); // Outputs 20
+}

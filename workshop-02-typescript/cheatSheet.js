@@ -1,3 +1,4 @@
+function cheatSheet() { // Here to prevent block-scope variables
 /**
  * This file contains uses of the JavaScript concepts that we need for this project :)
  */
@@ -12,6 +13,10 @@
 // Printing to the console
 console.log("This is the thing you want to print!");
 console.log(2 + 2);
+
+// Getting user input using prompt()
+let age = prompt("Enter your age: "); // When the user enters their age, the input is saved to this variable 'age'
+console.log("You are " + age + " years old!");
 
 
 /**
@@ -113,3 +118,4 @@ const person = {
 
 console.log(person.name); // Outputs 'John'
 console.log(person['age']); // Outputs 20
+}
