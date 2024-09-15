@@ -22,8 +22,8 @@ Ensure you have all the tools downloaded from the main [README.md](../README.md)
 
 ## Setup
 
-**Right-click** on your `index.html` file in VSCode and select **Open with Live Server**.  
-   (Note: You will need to restart VSCode after installing the Live Server extension to see this option.)
+1. In your terminal, run `npm install -g typescript` to install TypeScript.
+2. **Right-click** on the proper `index.html` file in VSCode and select **Open with Live Server**.  
 
 That’s it! You should be all set to go!
 
