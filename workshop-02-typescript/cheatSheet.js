@@ -60,6 +60,25 @@ console.log(shoppingList[1]); // Outputs 'Free-range Eggs'
 
 
 /**
+ * ARRAY METHODS: forEach, map, and filter
+ */
+
+// forEach: executes a function for each element in the array (does not return a new array)
+const numbers = [1, 2, 3, 4];
+numbers.forEach(number => {
+  console.log(number); // Outputs each number in the array
+});
+
+// map: transforms each element of the array and returns a new array
+const doubledNumbers = numbers.map(number => number * 2);
+console.log(doubledNumbers); // Outputs [2, 4, 6, 8]
+
+// filter: filters elements of an array based on a condition and returns a new array
+const evenNumbers = numbers.filter(number => number % 2 === 0);
+console.log(evenNumbers); // Outputs [2, 4]
+
+
+/**
  * CONDITIONALS
  */
 
