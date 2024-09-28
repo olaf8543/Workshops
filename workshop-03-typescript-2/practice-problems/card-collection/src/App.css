@@ -1,0 +1,45 @@
+.categories-buttongroup {
+  flex-direction: row;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.categories-buttongroup-container {
+  display: none;
+}
+
+.categories-dropdown {
+  display: contents;
+}
+
+.app-description {
+  display: none;
+}
+
+.food-item-image {
+  display: none;
+}
+
+/* Media query for screens with a width of 600px or more */
+@media screen and (min-width: 600px) {
+.categories-buttongroup-container {
+    display: contents;
+  }
+
+  .categories-dropdown {
+    display: none;
+  }
+
+  .app-description {
+    display: inline;
+  }
+}
+
+/* Media query for screens with a width of 900px or more */
+@media screen and (min-width: 900px) {
+  .food-item-image {
+    display: inline;
+  }
+}
