@@ -1,10 +1,9 @@
-// src/App.tsx
 import React from 'react';
 
 const App: React.FC = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-2xl font-bold">Hello, Tailwind and TypeScript!</h1>
+    <div className="bg-blue-200 p-4 min-h-screen">
+      <h1 className="text-sm font-bold text-red-500">Hello, Tailwind and TypeScript!</h1>
     </div>
   );
 };
