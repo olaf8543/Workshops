@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { addCharacter, CharacterType } from "../main";
+import { CharacterType } from "../main";
 
 interface NewCardModalProps {
     setNewCardModalOpen(open: boolean): void;
