@@ -2,6 +2,7 @@
 
 ## Objectives
 - Learn HTML basic syntax and skills
+- Learn CSS basic syntax and skills
 
 ## Prerequisites
 None!
